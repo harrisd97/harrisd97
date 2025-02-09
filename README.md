@@ -39,12 +39,6 @@
 🔹 **[Diabetes Prediction Model](https://github.com/yourrepo)** – ML model predicting diabetes risk based on lifestyle data.  
 🔹 **[ETL Data Pipeline Project](https://github.com/yourrepo)** – Extract, transform, and load data using SQL and SSIS.
 
-## 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourgithub&theme=dark)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithub&layout=compact&theme=dark)
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harishkd)  
