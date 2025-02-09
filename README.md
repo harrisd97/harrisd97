@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi there, I'm Harish! 👋
 
-<!--
-**harrisd97/harrisd97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- 🎯 **Data Analyst | SQL Developer | Business Intelligence Enthusiast**  
+- 💻 4 years of experience as a **PL/SQL Developer**, now transitioning into **Data Analytics**
+- 📊 Passionate about **Data-driven decision-making, Business Intelligence, and Data Storytelling**
+- 🎓 Currently pursuing **Data Analytics for Business** at **St. Clair College (Graduating April 2025)**
+- 🔍 Seeking **Data Analyst, Business Intelligence Analyst, or SQL Developer roles**
+- 💡 Interested in leveraging **data analytics to drive business growth and efficiency**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies
+
+### **Data Analytics & Visualization**
+- **Data Cleaning & Transformation:** Pandas, NumPy, SQL
+- **Exploratory Data Analysis (EDA):** Python (Matplotlib, Seaborn, Plotly), Power BI, Tableau
+- **Business Intelligence (BI):** KPI dashboards, Reporting
+- **Statistical Analysis:** Hypothesis Testing, Regression Analysis, A/B Testing
+
+### **Database & SQL Expertise**
+- **Databases:** Oracle 19C, SQL Server, MySQL
+- **SQL Development:** Complex Queries, Joins, CTEs, Window Functions, Stored Procedures
+- **ETL & Data Processing:** SSIS, Data Pipelines, Data Extraction & Loading
+- **Data Modeling:** Star Schema, Snowflake Schema, Normalization
+
+### **Machine Learning & Predictive Analytics (Basic)**
+- **Techniques:** Linear Regression, Classification, Clustering
+- **Libraries:** Scikit-learn, Statsmodels
+
+### **Other Tools & Platforms**
+- **Programming:** Python (Pandas, NumPy, Scikit-learn)
+- **Version Control:** Git, GitHub
+- **Excel:** Pivot Tables, VLOOKUP, Power Query
+
+## 📂 Featured Projects
+
+🔹 **[Data-driven Sales Analysis](https://github.com/yourrepo)** – SQL & Power BI project analyzing sales trends and forecasting revenue.  
+🔹 **[Customer Segmentation using Clustering](https://github.com/yourrepo)** – Data-driven approach to understanding customer behaviors.  
+🔹 **[Diabetes Prediction Model](https://github.com/yourrepo)** – ML model predicting diabetes risk based on lifestyle data.  
+🔹 **[ETL Data Pipeline Project](https://github.com/yourrepo)** – Extract, transform, and load data using SQL and SSIS.
+
+## 📊 GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourgithub&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithub&layout=compact&theme=dark)
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourlinkedin/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)  
+
+---
+
+🚀 *Let’s collaborate and turn data into valuable business insights!*
+
