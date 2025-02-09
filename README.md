@@ -46,11 +46,6 @@ You can reach me via LinkedIn or email using the links below:
 🔗 LinkedIn: [https://www.linkedin.com/in/harishkd](https://www.linkedin.com/in/harishkd)  
 📧 Email: [harishkumard97@gmail.com](mailto:harishkumard97@gmail.com)
 
-You can reach me via LinkedIn or email using the links below:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harishkd)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harishkumard97@gmail.com)  
-
 ---
 
 🚀 *Let’s collaborate and turn data into valuable business insights!*
