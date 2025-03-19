@@ -1,43 +1,50 @@
-# Hi there, I'm Harish! 👋
+# Hi there, I'm Harish! 👋  
 
-## 🚀 About Me
+## 🚀 About Me  
 
 - 🎯 **Data Analyst | SQL Developer | Business Intelligence Enthusiast**  
-- 💻 4 years of experience as a **PL/SQL Developer**, now transitioning into **Data Analytics**
-- 📊 Passionate about **Data-driven decision-making, Business Intelligence, and Data Storytelling**
-- 🎓 Currently pursuing **Data Analytics for Business** at **St. Clair College (Graduating April 2025)**
-- 🔍 Seeking **Data Analyst, Business Intelligence Analyst, or SQL Developer roles**
-- 💡 Interested in leveraging **data analytics to drive business growth and efficiency**
+- 💻 4+ years of experience as a **PL/SQL Developer**, now transitioning into **Data Analytics & Business Intelligence**  
+- 📊 Passionate about **Data-driven decision-making, Business Intelligence, and Data Storytelling**  
+- 🎓 Currently pursuing **Data Analytics for Business** at **St. Clair College (Graduating April 2025)**  
+- 🔍 Actively seeking **Data Analyst, Business Intelligence Analyst, or SQL Developer roles**  
+- 💡 Interested in leveraging **data analytics, predictive modeling, and AI to drive business growth and efficiency**  
+- 🎖️ Awarded **Best Developer** at MSC Technology & received **Academic Excellence Scholarship (twice)**  
 
-## 🛠️ Skills & Technologies
+---
 
-### **Data Analytics & Visualization**
-- **Data Cleaning & Transformation:** Pandas, NumPy, SQL
-- **Exploratory Data Analysis (EDA):** Python (Matplotlib, Seaborn, Plotly), Power BI, Tableau
-- **Business Intelligence (BI):** KPI dashboards, Reporting
-- **Statistical Analysis:** Hypothesis Testing, Regression Analysis, A/B Testing
+## 🛠️ Skills & Technologies  
 
-### **Database & SQL Expertise**
-- **Databases:** Oracle 19C, SQL Server, MySQL
-- **SQL Development:** Complex Queries, Joins, CTEs, Window Functions, Stored Procedures
-- **ETL & Data Processing:** SSIS, Data Pipelines, Data Extraction & Loading
-- **Data Modeling:** Star Schema, Snowflake Schema, Normalization
+| **Category**              | **Skills** |
+|---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **📌 Languages**          | SQL (PL/SQL, T-SQL), Python (Pandas, NumPy, Scikit-learn), DAX (Power BI), PowerShell (Basic) |
+| **📌 Databases**         | Oracle 19C, SQL Server, MySQL |
+| **📌 Business Intelligence** | Power BI, Tableau, Excel (Pivot Tables, VLOOKUP, Power Query) |
+| **📌 Data Engineering**   | ETL Pipelines (SSIS, SQL), Data Cleaning (Pandas, SQL) |
+| **📌 Machine Learning**   | Regression, Classification, Clustering, Scikit-learn, PyCaret |
+| **📌 Statistics**         | Hypothesis Testing, Regression Analysis, A/B Testing |
+| **📌 Data Modeling**      | Toad, SQL Developer, SSMS, ER Diagrams, Indexing, Performance Tuning |
+| **📌 Prompt Engineering** | AI Prompts for ChatGPT, NLP (Text Analysis, Sentiment Analysis) |
+| **📌 Version Control**    | Git, GitHub |
+| **📌 Agile & Collaboration** | JIRA, Confluence, Scrum, Stakeholder Communication |
+| **📌 Training & Mentorship** | Guided juniors in SQL, ETL, and Performance Tuning |
 
-### **Machine Learning & Predictive Analytics (Basic)**
-- **Techniques:** Linear Regression, Classification, Clustering
-- **Libraries:** Scikit-learn, Statsmodels
+---
 
-### **Other Tools & Platforms**
-- **Programming:** Python (Pandas, NumPy, Scikit-learn)
-- **Version Control:** Git, GitHub
-- **Excel:** Pivot Tables, VLOOKUP, Power Query
-
-## 📂 Featured Projects
+## 📂 Featured Projects  
 
 🔹 **[Data-driven Sales Analysis](https://github.com/yourrepo)** – SQL & Power BI project analyzing sales trends and forecasting revenue.  
 🔹 **[Customer Segmentation using Clustering](https://github.com/yourrepo)** – Data-driven approach to understanding customer behaviors.  
 🔹 **[Diabetes Prediction Model](https://github.com/yourrepo)** – ML model predicting diabetes risk based on lifestyle data.  
-🔹 **[ETL Data Pipeline Project](https://github.com/yourrepo)** – Extract, transform, and load data using SQL and SSIS.
+🔹 **[ETL Data Pipeline Project](https://github.com/yourrepo)** – Extract, transform, and load data using SQL and SSIS.  
+🔹 **[AI-driven Text Classification](https://github.com/yourrepo)** – NLP-based sentiment analysis using Python & LLMs.  
+
+---
+
+## 🎓 Certifications & Courses  
+
+📜 **MITx – Machine Learning with Python**  
+📜 **PGP in Data Science & Machine Learning – Intellipaat**  
+📜 **Microsoft Power BI Certification (In Progress)**  
 
 ## 📫 Connect With Me
 
