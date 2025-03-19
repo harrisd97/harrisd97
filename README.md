@@ -31,7 +31,7 @@
 ---
 
 ## 📂 Featured Projects  
-🔹 **[Chat Bot with Deep Learning](https://github.com/harrisd97/Chat-Bot-DeepLearning)** – AI chatbot using Deep Learning (RNN, LSTM, Transformer).
+🔹 **[Chat Bot with Deep Learning](https://github.com/harrisd97/Chat-Bot-DeepLearning)** – AI chatbot using Deep Learning (RNN, LSTM, Transformer).                
 🔹 **[E-Commerce Churn Analytics](https://github.com/harrisd97/E-Commerce-Churn-Analytics)** – Predicting customer churn using machine learning.  
 🔹 **[Data-driven Sales Analysis](https://github.com/yourrepo)** – SQL & Power BI project analyzing sales trends and forecasting revenue.  
 🔹 **[Customer Segmentation using Clustering](https://github.com/yourrepo)** – Data-driven approach to understanding customer behaviors.  
