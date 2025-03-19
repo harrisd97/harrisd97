@@ -32,7 +32,8 @@
 
 ## 📂 Featured Projects  
 🔹 **[Chat Bot with Deep Learning](https://github.com/harrisd97/Chat-Bot-DeepLearning)** – AI chatbot using Deep Learning (RNN, LSTM, Transformer).                
-🔹 **[E-Commerce Churn Analytics](https://github.com/harrisd97/E-Commerce-Churn-Analytics)** – Predicting customer churn using machine learning.  
+🔹 **[E-Commerce Churn Analytics](https://github.com/harrisd97/E-Commerce-Churn-Analytics)** – Predicting customer churn using machine learning. 
+🔹 **[Hilton Sentiment Analysis](https://github.com/harrisd97/hilton-sentiment-analysis)** – Analyzing hotel reviews using NLP to understand customer sentiments.  
 🔹 **[Data-driven Sales Analysis](https://github.com/yourrepo)** – SQL & Power BI project analyzing sales trends and forecasting revenue.  
 🔹 **[Customer Segmentation using Clustering](https://github.com/yourrepo)** – Data-driven approach to understanding customer behaviors.  
 🔹 **[Diabetes Prediction Model](https://github.com/yourrepo)** – ML model predicting diabetes risk based on lifestyle data.  
