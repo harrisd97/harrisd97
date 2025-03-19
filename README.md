@@ -8,7 +8,7 @@
 - 🎓 Currently pursuing **Data Analytics for Business** at **St. Clair College (Graduating April 2025)**  
 - 🔍 Actively seeking **Data Analyst, Business Intelligence Analyst, or SQL Developer roles**  
 - 💡 Interested in leveraging **data analytics, predictive modeling, and AI to drive business growth and efficiency**  
-- 🎖️ Awarded **Best Developer** at MSC Technology & received **Academic Excellence Scholarship (twice)**  
+- 🎖️ Received **Academic Excellence Scholarship (twice) & awarded **Best Developer** at MSC Technology**  
 
 ---
 
@@ -26,7 +26,7 @@
 | **📌 Prompt Engineering** | AI Prompts for ChatGPT, NLP (Text Analysis, Sentiment Analysis) |
 | **📌 Version Control**    | Git, GitHub |
 | **📌 Agile & Collaboration** | JIRA, Confluence, Scrum, Stakeholder Communication |
-| **📌 Training & Mentorship** | Guided juniors in SQL, ETL, and Performance Tuning |
+| **📌 Training & Mentorship** | Guided juniors in SQL, PL/SQL, and Performance Tuning |
 
 ---
 
