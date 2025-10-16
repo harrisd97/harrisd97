@@ -1,66 +1,52 @@
-# Hi there, I'm Harish! 👋
+# Harish Kumar D
 
-## 🚀 About Me
-
-A results-driven **Data Engineer / SQL Developer** with over 4 years of experience in designing and developing scalable data solutions using **Oracle 12c/19c**, **PL/SQL**, **T-SQL**, **SQL Server**, and **SSIS**. I specialize in building efficient ETL processes, optimizing database performance, and transforming complex data into actionable business insights.
-
-At MSC Technology, I contributed to enterprise-grade data systems by transforming **JSON/XML data**, optimizing large-scale queries, and supporting logistics systems with robust data models. My work included the development of ETL packages, custom reports, and performance-tuned solutions that supported mission-critical business operations.
-
-Currently pursuing a **Postgraduate Diploma in Data Analytics for Business** at **St. Clair College (Ontario)**, I am expanding my expertise into **cloud-based data platforms** such as **Azure Data Factory**, **Databricks (Apache Spark, Delta Lake)**, and **Microsoft Fabric** to align with modern data engineering practices.
-
-I am highly proficient in **Power BI**, **Python (Pandas)**, and **Agile methodologies**, and have demonstrated leadership through mentorship and collaboration in cross-functional teams.
-
-🏆 Recognitions:
-- *Best Developer Award* – MSC Technology  
-- *Academic Excellence Scholarship* – St. Clair College (twice)
-
-📍 Open to **Data Engineer**, **SQL Developer**, or **ETL Developer** opportunities across Canada (Hybrid/Remote).
+### Senior SQL & ETL Developer | Data Analyst
 
 ---
 
-## 🛠️ Skills & Technologies
+## Professional Summary
 
-| **Category**              | **Skills** |
-|---------------------------|--------------------------------------------------------------------------------------------------------------|
-| **Languages**             | SQL (PL/SQL, T-SQL), Python (Pandas, Automation), DAX, PowerShell (Basic) |
-| **Databases**             | Oracle 12c/19c, SQL Server, MySQL |
+A **Senior SQL & ETL Developer** with over four years of experience designing, developing, and optimizing high-performance database solutions for enterprise systems. My core expertise is in **Oracle 12c/19c**, **PL/SQL**, and building robust **ETL pipelines**. I have a proven ability to enhance data processing efficiency, achieving a 35% reduction in processing time in a previous role.
+
+After being recognized as **Best Developer** at MSC Technology, I earned a **Postgraduate Diploma in Data Analytics for Business** from St. Clair College, graduating with a perfect 4.0 GPA. This academic pursuit expanded my skillset into **Python**, **Machine Learning**, and advanced **Business Intelligence** tools like Power BI and Tableau.
+
+I am now seeking to apply my combined expertise in database development and data analytics to a **SQL Developer**, **ETL Developer**, or **Data Analyst** role within Canada.
+
+---
+
+## Technical Skillset
+
+| Category | Skills |
+| :--- | :--- |
+| **Databases & Languages** | Oracle 12c/19c, SQL Server, MySQL **|** PL/SQL, T-SQL, Python (Pandas, NumPy, Scikit-learn) |
+| **ETL & Data Warehousing** | ETL Design & Development, SSIS, Data Modeling (Star Schema), Performance Tuning |
 | **Business Intelligence** | Power BI, Tableau, Excel (Power Query, Pivot Tables) |
-| **Data Engineering**      | ETL (SSIS, PL/SQL Packages), Data Cleaning (SQL/Pandas), Azure Data Factory (Learning), Databricks (Learning) |
-| **Data Modeling**         | Dimensional Modeling, Star Schema, Indexing, Performance Tuning, Toad, SQL Developer, SSMS |
-| **Machine Learning**      | Classification, Regression, Clustering, PyCaret, Scikit-learn |
-| **Statistics**            | Hypothesis Testing, Regression Analysis, A/B Testing |
-| **Version Control**       | Git, Azure DevOps, GitHub |
-| **Agile & Collaboration** | Scrum, JIRA, Confluence, Stakeholder Communication |
-| **Training & Mentorship** | Mentored junior developers in SQL, PL/SQL, SSIS, and performance optimization |
+| **Data Science & ML** | Sentiment Analysis (NLP), Predictive Modeling (Classification), Exploratory Data Analysis (EDA) |
+| **Tools & Collaboration** | Git, GitHub, Azure DevOps, JIRA, Agile/Scrum |
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-- **[Hilton Sentiment Analysis](https://github.com/harrisd97/hilton-sentiment-analysis)** – NLP-based review analysis using Python.
-- **[E-Commerce Churn Analytics](https://github.com/harrisd97/E-Commerce-Churn-Analytics)** – Identifying churn behavior using machine learning.
-- **[Healthcare Prioritization Survey](https://github.com/harrisd97/Health-Care-Prioritization-Survey)** – Tableau-based public sentiment analysis.
-- **[Chatbot with Deep Learning](https://github.com/harrisd97/Chat-Bot-DeepLearning)** – RNN, LSTM, and Transformer-powered chatbot.
-- **[ETL Solution using SSIS & SQL](https://github.com/yourrepo)** – Designed and developed a complete ETL workflow with staging, transformation, and cleansing logic.
-- **[Diabetes Prediction Model](https://github.com/yourrepo)** – Predictive analytics using lifestyle and health survey data.
-- **[Power BI Sales Dashboard](https://github.com/yourrepo)** – Interactive dashboard for revenue analysis and forecasting.
-- **[AI-driven Text Classification](https://github.com/yourrepo)** – Built with LLMs and Scikit-learn for multi-class sentiment tagging.
-- **[Customer Segmentation](https://github.com/yourrepo)** – K-means clustering to group customers by behavior.
+The following projects demonstrate my ability to manage the end-to-end data lifecycle, from application development and database management to advanced analytics and visualization.
+
+| Project | Description | Technologies Used |
+| :--- | :--- | :--- |
+| **[Stationer Success Tracker](https://github.com/harrisd97/stationer_tracker)** | A full-stack web application developed to help small businesses manage projects, clients, and finances. The application is deployed live on Render and backed by a PostgreSQL database. | Python, Flask, PostgreSQL, JavaScript, HTML/CSS |
+| **[Hilton Sentiment Analysis](https://github.com/harrisd97/hilton-sentiment-analysis)** | An NLP pipeline engineered to process and analyze over 17,000 hotel reviews. The resulting model classifies customer sentiment with 87% accuracy, providing actionable insights into service quality. | Python, Pandas, NLTK, Scikit-learn, Tableau |
+| **[E-Commerce Churn Analytics](https://github.com/harrisd97/E-Commerce-Churn-Analytics)** | A machine learning model that predicts customer churn with 97% accuracy. The project involved in-depth EDA to identify key churn drivers, enabling targeted retention strategies. | Python, Scikit-learn, Pandas, Matplotlib |
+| **[Healthcare Prioritization Survey](https://github.com/harrisd97/Health-Care-Prioritization-Survey)** | An analysis of public sentiment data on healthcare topics. Findings were communicated through interactive dashboards, making complex data accessible to stakeholders. | Tableau, SQL, Excel |
 
 ---
 
-## 🎓 Certifications & Courses
+## Education & Certifications
 
-- **MITx – Machine Learning with Python**  
-- **PGP in Data Science & Machine Learning – Intellipaat**  
-- **Microsoft Power BI Certification (In Progress)**  
-- **Azure & Databricks Certification (In Progress)**
+- **Post Graduate Diploma in Data Analytics for Business** - *St. Clair College, Windsor, ON*
+- **Bachelor of Engineering, Mechanical** - *Anna University, Chennai, India*
+- **PGP in Data Science & Machine Learning** - *Intellipaat / MITx*
+- **Machine Learning with Python** - *MITx via edX*
 
-## 📫 Connect With Me
+## Contact Information
 
-- **LinkedIn**: [https://www.linkedin.com/in/harishkd](https://www.linkedin.com/in/harishkd)  
+- **LinkedIn**: [linkedin.com/in/harishkd](https://www.linkedin.com/in/harishkd)
 - **Email**: [harishkumard97@gmail.com](mailto:harishkumard97@gmail.com)
-
----
-
-🚀 *Let’s connect and build powerful, data-driven solutions together!*
