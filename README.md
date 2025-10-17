@@ -18,7 +18,7 @@ I am now seeking to apply my combined expertise in database development and data
 
 | Category | Skills |
 | :--- | :--- |
-| **Databases & Languages** | Oracle 12c/19c, SQL Server, MySQL **|** PL/SQL, T-SQL, Python (Pandas, NumPy, Scikit-learn) |
+| **Databases & Languages** | Oracle 12c/19c, SQL Server, MySQL, PL/SQL, T-SQL, Python (Pandas, NumPy, Scikit-learn) |
 | **ETL & Data Warehousing** | ETL Design & Development, SSIS, Data Modeling (Star Schema), Performance Tuning |
 | **Business Intelligence** | Power BI, Tableau, Excel (Power Query, Pivot Tables) |
 | **Data Science & ML** | Sentiment Analysis (NLP), Predictive Modeling (Classification), Exploratory Data Analysis (EDA) |
